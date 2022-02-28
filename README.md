@@ -11,4 +11,6 @@ Following are the features included in the APP:
 3. The background of the APP UI shall change accordingly for Day/Night 
 4. The Sign in/Sign-out feature has been integrated with the HMS account kit. 
 5. The banner ads have been enabled using the HMS ads kit. 
-6. The demo video is also included in the GIT for a quick reference. 
+6. The demo video link is also included in the GIT for a quick reference.
+
+The demo can be seen @ https://drive.google.com/file/d/1eIMMiSBeYB9ENhR03uyYi6R_LxIWvPy4/view?usp=sharing
